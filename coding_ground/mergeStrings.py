@@ -1,3 +1,6 @@
+# Problem Statement: You are given two strings. You need to create a new string made up of these two strings where the first character of each string is compared with each other 
+#         and based on a sorted arrangement, the smaller letter be added to the new string first. The comparison should be done for all characters in both strings.
+
 s1='super'
 s2='tower'
 
